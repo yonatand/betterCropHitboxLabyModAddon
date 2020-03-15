@@ -1,4 +1,4 @@
-package net.labymod.addons.bettercrophitbox;
+package net.ddns.yonatand.bettercrophitbox;
 
 import net.minecraft.block.Block;
 

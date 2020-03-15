@@ -1,4 +1,4 @@
-package net.labymod.addons.bettercrophitbox;
+package net.ddns.yonatand.bettercrophitbox;
 
 import net.labymod.api.LabyModAddon;
 import net.labymod.settings.elements.ControlElement;
@@ -6,7 +6,6 @@ import net.labymod.settings.elements.SettingsElement;
 import net.labymod.settings.elements.BooleanElement;
 import net.labymod.utils.Consumer;
 import net.labymod.utils.Material;
-import net.minecraft.block.Block;
 
 import java.util.List;
 
