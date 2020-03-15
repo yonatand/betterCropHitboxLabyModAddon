@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "BetterCropHitbox",
+  "mainClass": "net.labymod.addons.bettercrophitbox.BetterCropHitboxAddon",
+  "description": "This addon changes the hitbox of: Wheat, Potatoes, Carrots and Nether Wart to a bigger hitbox for easier farming. ",
+  "version": 1,
+  "author": "yonatand",
+  "category": 4,
+  "icon": "http://icons.iconarchive.com/icons/bogo-d/project/32/Plant-icon.png"
+}
